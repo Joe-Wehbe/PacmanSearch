@@ -3,7 +3,7 @@ This project was completed as part of the Artificial Intelligence course at the 
 
 
 The algorithms and heuristics are written in the `search.py` and `searchAgents.py` files. <br>
-Files that can be useful to look at: `pacman.py`, `game.py` and `util.py` (data structures).<br>
+Files that can be useful to look at: `pacman.py`, `game.py` and `util.py`.<br>
 Other supporting files can be ignored. <br>
 
 ![Pacman](https://github.com/Joe-Wehbe/pacman-search/assets/102875229/7dc2f23b-3358-4bb7-8abf-71f96f2546fd)
@@ -21,7 +21,7 @@ All commands can be found in the `command.txt` file for easy copy-pasting. <br>
 Keep in mind that if Pacman gets stuck you can exit the game by clicking `ctrl + c`
 
 # Algorithms and Heuristics
-### Q1: Finding Fixed Food Dot using Depth First Search
+### Q1: Finding Fixed Food Dots using Depth First Search
 This algorithm is implemented in `search.py`.
 To test it, you can run the following three commands, each one for a different maze: 
 ```
