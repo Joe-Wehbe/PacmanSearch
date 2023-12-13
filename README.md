@@ -1,5 +1,5 @@
 # Description
-This project was completed as part of the Artificial Intelligence course at the <a href="http://www.lau.edu.lb/">Lebanese American University</a>. It consists of implementing different search algorithms and heuristics to optimize the Pacman game.<br>
+This project was completed as part of the Artificial Intelligence course (CSC460) at the <a href="http://www.lau.edu.lb/">Lebanese American University</a>. It consists of implementing different search algorithms and heuristics to optimize the Pacman game.<br>
 
 
 The algorithms and heuristics are written in the `search.py` and `searchAgents.py` files. <br>
