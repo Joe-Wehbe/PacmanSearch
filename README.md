@@ -6,7 +6,7 @@ The algorithms and heuristics are written in the `search.py` and `searchAgents.p
 Files that can be useful to look at: `pacman.py`, `game.py` and `util.py`.<br>
 Other supporting files can be ignored. <br>
 
-![Pacman](https://github.com/Joe-Wehbe/pacman-search/assets/102875229/7dc2f23b-3358-4bb7-8abf-71f96f2546fd)
+<img src="https://github.com/Joe-Wehbe/pacman-search/assets/102875229/7dc2f23b-3358-4bb7-8abf-71f96f2546fd" alt="Pacman" width="100%" height="400">
 
 # Getting Started
 After downloading the code, changing the directory, and unzipping it, you can play a game by typing the following command on your terminal:
